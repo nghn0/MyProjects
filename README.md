@@ -73,7 +73,7 @@ Each project link below provides detailed information on what the project does, 
   - Responsive design for a seamless experience across devices.
 
 
-### [Project: Disappearing Typing Speed Test](https://github.com/nhn0/disappearing-typing-speed-test)
+### [Project: Disappearing Typing Speed Test](https://github.com/nghn0/disappearing-typing-speed-test)
 - **Description**: A simple desktop application that tests typing speed with a "death timer" feature. Users must type within a specified time limit, or they will receive a warning. The application tracks key presses and informs users if they take too long to type.
 - **Tech Stack**: Python, Tkinter, Pynput, threading
 - **Key Features**: 
