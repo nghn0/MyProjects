@@ -5,7 +5,7 @@ Each project link below provides detailed information on what the project does, 
 
 ## Projects
 
-### [Project 1: Text-To-MorseCode converter](https://github.com/yourusername/project1)
+### [Project 1: Text-To-Morse Code converter](https://github.com/yourusername/project1)
 - **Description**: A Python program that converts English text (A-Z, 0-9) to Morse code and vice versa, with validation for accurate conversion..
 - **Tech Stack**: Python.
 - **Key Features**:
