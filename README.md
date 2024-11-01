@@ -9,6 +9,6 @@ Each project link below provides detailed information on what the project does, 
 - **Description**: A Python program that converts English text (A-Z, 0-9) to Morse code and vice versa, with validation for accurate conversion..
 - **Tech Stack**: Python.
 - **Key Features**:
-- - English to Morse and Morse to English.
+  - English to Morse and Morse to English.
   - Ensures input is valid for each character or Morse symbol.
     
