@@ -52,7 +52,7 @@ Each project link below provides detailed information on what the project does, 
   - Winning condition when all blocks are cleared.
 
 
-### [Project: Wifi Café Application](https://github.com/nghn0/wifi-cafe)
+### [Project 6: Wifi Café Application](https://github.com/nghn0/wifi-cafe)
 - **Description**: A dynamic web platform that allows users to explore and manage café information. Users can register, log in, and utilize various features to interact with the café database, making it a practical tool for café enthusiasts and managers alike.
 - **Tech Stack**: Python, Flask, Flask-SQLAlchemy, SQLite, HTML, CSS, Bootstrap
 - **Key Features**: 
@@ -63,7 +63,7 @@ Each project link below provides detailed information on what the project does, 
   - Responsive design for a user-friendly experience on all devices.
 
 
-### [Project: To-Do List](https://github.com/nghn0/to-do-list)
+### [Project 7: To-Do List](https://github.com/nghn0/to-do-list)
 - **Description**: A dynamic web platform that allows users to manage to-do lists and tasks. Users can create lists, add tasks with descriptions, mark tasks as done, and manage their task lists efficiently.
 - **Tech Stack**: Python, Flask, Flask-SQLAlchemy, SQLite, HTML, CSS, Bootstrap, Flask-WTF, Flask-CKEditor
 - **Key Features**: 
@@ -73,7 +73,7 @@ Each project link below provides detailed information on what the project does, 
   - Responsive design for a seamless experience across devices.
 
 
-### [Project: Disappearing Typing Speed Test](https://github.com/nghn0/disappearing-typing-speed-test)
+### [Project 8: Disappearing Typing Speed Test](https://github.com/nghn0/disappearing-typing-speed-test)
 - **Description**: A simple desktop application that tests typing speed with a "death timer" feature. Users must type within a specified time limit, or they will receive a warning. The application tracks key presses and informs users if they take too long to type.
 - **Tech Stack**: Python, Tkinter, Pynput, threading
 - **Key Features**: 
@@ -82,7 +82,7 @@ Each project link below provides detailed information on what the project does, 
   - User-friendly interface for typing tasks.
   - Simple and lightweight design.
 
-### [Project: PDF to Audio Converter](https://github.com/nghn0/pdf-to-audiobook)
+### [Project 9: PDF to Audio Converter](https://github.com/nghn0/pdf-to-audiobook)
 - **Description**: A simple Python application that converts the text from a PDF file into an audio file using Google Text-to-Speech (gTTS). Users can input a file name for the saved audio, and the application will generate an MP3 file from the PDF text.
 - **Tech Stack**: Python, PyPDF2, gTTS
 - **Key Features**: 
@@ -91,7 +91,7 @@ Each project link below provides detailed information on what the project does, 
   - User-friendly prompt for specifying the output file name.
 
 
-### [Project: Color Extraction from Images](https://github.com/nghn0/Color-Extraction-from-Images)
+### [Project 10: Color Extraction from Images](https://github.com/nghn0/Color-Extraction-from-Images)
 - **Description**: A web application that allows users to upload images and extracts the top colors from the uploaded image. The application utilizes Flask for the web framework and PIL for image processing.
 - **Tech Stack**: Python, Flask, Flask-WTF, NumPy, Pillow, Flask-Bootstrap
 - **Key Features**: 
@@ -100,13 +100,22 @@ Each project link below provides detailed information on what the project does, 
   - Utilizes Bootstrap for responsive design.
 
 
-### [Project: NBA Player Statistics Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper)
+### [Project 11: NBA Player Statistics Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper)
 - **Description**: A Python application that scrapes the NBA website for player statistics in various categories, including points, rebounds, assists, blocks, steals, turnovers, three-pointers made, free throws made, and fantasy points. Users can select a category to view the top players.
 - **Tech Stack**: Python, Requests, BeautifulSoup
 - **Key Features**: 
   - Scrapes real-time NBA player statistics from the official NBA website.
   - Allows users to select from multiple statistical categories.
   - Displays the names and statistics of the top players in the chosen category.
+
+
+### [Project 12: UI/UX Design for Personal Portfolio](https://nithishgowdahn.my.canva.site/portfolio)
+- **Description**: A comprehensive portfolio design created using Canva to showcase personal projects. The design focuses on aesthetics, user-friendly navigation, and an organized layout to ensure an engaging user experience. 
+- **Tech Stack**: Canva
+- **Key Features**: 
+  - Modern and minimalistic design tailored for a personal portfolio
+  - Sections for showcasing projects and contact.
+  - Intuitive layout with visually appealing color schemes and typography.
 
 
     
