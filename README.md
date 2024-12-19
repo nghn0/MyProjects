@@ -118,4 +118,20 @@ Each project link below provides detailed information on what the project does, 
   - Intuitive layout with visually appealing color schemes and typography.
 
 
+### [Project 13: Space Invaders](https://nithishgowdahn.my.canva.site/portfolio)
+- **Description**: A dynamic and interactive arcade-style space shooter game developed in Python using the Turtle graphics library. The player controls a shooter character, moves left and right, and shoots to destroy incoming enemies. Enemies move in waves and randomly fire projectiles at the player. The game features detailed collision detection, game-over conditions, score tracking, and enemy movement patterns.
+- **Tech Stack**: Python (Turtle Graphics)
+- **Key Features**: 
+  - Player Controls: The shooter is controlled using left, right, and spacebar keys for movement and shooting.
+  - Enemies: Enemy blocks move back and forth across the screen, with each enemy capable of randomly firing bullets.
+  - Bullet Mechanics: Both the player’s and enemies' bullets are continuously fired and tracked. The player’s bullets destroy enemies, and enemy bullets can hit the player.
+  - Collision Detection: The game detects collisions between the shooter’s bullets and enemies, as well as collisions between enemy bullets and the shooter.
+  - Game Over Condition: If the player's shooter is hit by an enemy bullet, the game ends, showing the final score.
+  - Score System: The player’s score increases when an enemy is destroyed, and the final score is displayed upon game over.
+  - Dynamic Movement: The enemies move horizontally, reversing direction when they reach the screen edge. Additionally, they randomly shoot bullets to challenge the player.
+  - Game Timing and Smooth Gameplay: Timed enemy and bullet movement ensures the game runs smoothly with fluid updates on screen.
+- **Future Improvements**:
+  - Screen Update Delay: Currently, the screen updates every second, which introduces a slight delay in the movement of enemies and other game events. This can be optimized to reduce lag and make the game feel more responsive, possibly by increasing the update rate or optimizing drawing operations.
+  - Game Over State Issue: When the shooter is hit by an enemy bullet, the score is displayed, but behind the game-over message, the enemies continue to move and fire. This issue can be resolved by pausing enemy movement upon game over to freeze the action and focus only on the game-ending sequence.
+
     
