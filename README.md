@@ -118,7 +118,7 @@ Each project link below provides detailed information on what the project does, 
   - Intuitive layout with visually appealing color schemes and typography.
 
 
-### [Project 13: Space Invaders](https://nithishgowdahn.my.canva.site/portfolio)
+### [Project 13: Space Invaders](https://github.com/nghn0/space_invaders)
 - **Description**: A dynamic and interactive arcade-style space shooter game developed in Python using the Turtle graphics library. The player controls a shooter character, moves left and right, and shoots to destroy incoming enemies. Enemies move in waves and randomly fire projectiles at the player. The game features detailed collision detection, game-over conditions, score tracking, and enemy movement patterns.
 - **Tech Stack**: Python (Turtle Graphics)
 - **Key Features**: 
