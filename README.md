@@ -143,4 +143,21 @@ Each project link below provides detailed information on what the project does, 
   - Interactive user interface using Flask and HTML templates.
 
 
+### [Project 15: Birthday Reminder App](https://github.com/nghn0/birthday_reminder)
+- **Description**: A Flask-based web application that helps users keep track of birthdays and sends email reminders for upcoming birthdays. Users can input names and birthdates to store them in a database, and the app automatically checks for today's birthdays to send email notifications. The email notifications are handled in a separate thread for non-blocking behavior.
+- **Tech Stack**: Python, Flask, SQLite, Flask-WTF, Flask-Bootstrap, SMTP (Email), HTML, CSS
+- **Key Features**:
+  - Store and retrieve names and birthdates in an SQLite database.
+  - Automatically checks for today’s birthdays and sends email reminders.
+  - Uses multithreading to handle email sending without blocking other functionalities.
+  - User-friendly interface powered by Flask-WTF forms and Bootstrap for styling.
+  - Email reminders are sent with details of today's birthdays using Gmail SMTP server.
+
+
+
+
+
+
+
+
     
