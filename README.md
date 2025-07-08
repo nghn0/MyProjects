@@ -154,6 +154,30 @@ Each project link below provides detailed information on what the project does, 
   - Email reminders are sent with details of today's birthdays using Gmail SMTP server.
 
 
+### [Project 16: Emojify – Real-Time Facial Emotion Detection](https://github.com/nghn0/Emojify)
+
+- **Description**:  
+  A real-time facial emotion recognition system that detects human emotions through webcam input and responds with appropriate emoji overlays or emotion labels. It implements and compares three different deep learning architectures: a baseline CNN, an attention-enhanced CNN using Squeeze-and-Excitation blocks, and a CNN+Vision Transformer (ViT) hybrid model. The models are trained on FER2013 and AffectNet datasets and optimized using data augmentation, focal loss, and class weighting strategies.
+
+- **Tech Stack**:  
+  Python, TensorFlow/Keras, OpenCV, NumPy, FER2013, AffectNet, Vision Transformer (ViT), Squeeze-and-Excitation Blocks
+
+- **Key Features**:
+  - Real-time facial emotion detection from webcam video.
+  - Supports three model architectures:
+    - **Base CNN** for efficient inference.
+    - **CNN with SE Attention** for enhanced emotion-focused feature representation.
+    - **CNN + ViT** for combining local and global image features.
+  - Trained on two widely used datasets:
+    - [FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
+    - [AffectNet](https://www.kaggle.com/datasets/mstjebashazida/affectnet)
+  - Handles class imbalance using **Focal Loss** and **class weights**.
+  - Augments training data using rotation, zoom, flipping, and brightness shifts.
+  - GUI support using OpenCV with emoji or text overlay on detected faces.
+  - Performance comparison between models on both accuracy and real-time capability.
+
+
+
 
 
 
